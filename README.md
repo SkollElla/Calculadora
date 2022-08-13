@@ -1,2 +1,2 @@
 # Calculadora
-No terminal C#
+Calculadora básica no terminal C#
