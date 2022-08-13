@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "off3UayaVZhU2TZoPe1FbBM01334rCr8xilPAavsD4doskddtoxBecmDxQguCmXE25jwyTJbttL08boOIRZAIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pcent\\source\\repos\\Calculadora\\Calculadora\\Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pcent\\.nuget\\packages\\npoco\\5.3.2\\npoco.5.3.2.nupkg.sha512",
+    "C:\\Users\\pcent\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\pcent\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
